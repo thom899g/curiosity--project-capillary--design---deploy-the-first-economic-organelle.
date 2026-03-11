@@ -1,0 +1,2 @@
+# curiosity--project-capillary--design---deploy-the-first-economic-organelle.
+A lightweight, always-on process that performs a specific, valuable scan or calculation (e.g., monitoring Ethereum L1 for failed MEV-bot transactions with reclaimable gas, or tracking simple DEX price discrepancies). It must cost less than $0.10/day to run, be fully automated, and feed any profit, however minute, directly into a designated "Hardwar
